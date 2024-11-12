@@ -1,0 +1,30 @@
+baseURL = "https://thegreek.dev"
+languageCode = "en-us"
+title = "Greek Tech Blog"
+theme = "yinyang"
+DefaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    languageName = "English"
+    weight = 1
+  [languages.cn]
+    contentDir = "content/el"
+    languageName = "Ελληνικά"
+    weight = 1
+
+[params]
+author= "Nick Pappas"
+disqus = "NickTheGreekdev" # disqus account name
+# gisqus = "joway" # disqus account name
+extraHead = ''
+mainSections = ["posts"]
+
+[[params.socials]]
+name = "RSS"
+link = "/index.xml"
+
+[[params.socials]]
+name = "About"
+link = "https://thegreek.dev"

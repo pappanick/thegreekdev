@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Greek Tech Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Greek Tech Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Guest House</title>
+      <link>http://localhost:1313/posts/theguesthouse/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/theguesthouse/</guid>
+      <description>&lt;h2 id=&#34;the-guest-house&#34;&gt;The Guest House&lt;/h2&gt;&#xA;&lt;h1 id=&#34;by-jalaluddin-rumi&#34;&gt;by Jalaluddin Rumi&lt;/h1&gt;&#xA;&lt;p&gt;Translated by Coleman Barks&lt;/p&gt;&#xA;&lt;p&gt;This being human is a guest house.&#xA;Every morning a new arrival.&lt;/p&gt;&#xA;&lt;p&gt;A joy, a depression, a meanness,&#xA;some momentary awareness comes&#xA;as an unexpected visitor.&lt;/p&gt;&#xA;&lt;p&gt;Welcome and entertain them all!&#xA;Even if they’re a crowd of sorrows,&#xA;who violently sweep your house&#xA;empty of its furniture,&#xA;still, treat each guest honorably.&#xA;He may be clearing you out&#xA;for some new delight.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Fever</title>
+      <link>http://localhost:1313/posts/thefever/</link>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/thefever/</guid>
+      <description>&lt;h2 id=&#34;the-fever&#34;&gt;The Fever&lt;/h2&gt;&#xA;&lt;h1 id=&#34;by-wallace-shawn&#34;&gt;by Wallace Shawn&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;m traveling—and I wake up suddenly in the silence before dawn in a strange hotel room, in a poor country where my language isn&amp;rsquo;t spoken, and I&amp;rsquo;m shaking and shivering.— Why? There&amp;rsquo;s something—something is happening—far away, in a different country. Yes, I remember. It&amp;rsquo;s the execution. The newspaper article said this would be the hour, this was the date.&lt;/p&gt;&#xA;&lt;p&gt;I catch my breath. And so now they come—they come for the man who lies in his cot, the cat-like man whose face is so large, so black, that the guards who open his cell are once again frightened, shaken. They shave his head, a section of his leg, so the electrodes will fit closely on the skin.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
